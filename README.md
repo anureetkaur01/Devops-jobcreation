@@ -53,5 +53,7 @@ Academic Integrity
 All configurations and scripts in this repository are original and created for academic purposes.
 
 Author
+
 Anureet Kaur
+
 CI Lab Assignment – Jenkins and Continuous Testing
